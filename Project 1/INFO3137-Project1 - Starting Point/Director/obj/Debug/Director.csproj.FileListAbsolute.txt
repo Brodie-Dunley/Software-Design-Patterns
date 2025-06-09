@@ -1,0 +1,8 @@
+C:\Users\bdunl\Desktop\Summer 2025\INFO 3137 Design Patterns\INFO3137-Project1 - Starting Point\Director\obj\Debug\Director.csproj.AssemblyReference.cache
+C:\Users\bdunl\Desktop\Summer 2025\INFO 3137 Design Patterns\INFO3137-Project1 - Starting Point\Director\obj\Debug\Director.csproj.CoreCompileInputs.cache
+C:\Users\bdunl\Desktop\Summer 2025\INFO 3137 Design Patterns\INFO3137-Project1 - Starting Point\docs\Director.exe.config
+C:\Users\bdunl\Desktop\Summer 2025\INFO 3137 Design Patterns\INFO3137-Project1 - Starting Point\docs\Director.exe
+C:\Users\bdunl\Desktop\Summer 2025\INFO 3137 Design Patterns\INFO3137-Project1 - Starting Point\docs\Director.pdb
+C:\Users\bdunl\Desktop\Summer 2025\INFO 3137 Design Patterns\INFO3137-Project1 - Starting Point\Director\obj\Debug\Director.csproj.Up2Date
+C:\Users\bdunl\Desktop\Summer 2025\INFO 3137 Design Patterns\INFO3137-Project1 - Starting Point\Director\obj\Debug\Director.exe
+C:\Users\bdunl\Desktop\Summer 2025\INFO 3137 Design Patterns\INFO3137-Project1 - Starting Point\Director\obj\Debug\Director.pdb

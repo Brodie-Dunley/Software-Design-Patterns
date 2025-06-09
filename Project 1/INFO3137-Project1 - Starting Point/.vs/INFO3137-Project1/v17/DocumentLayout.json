@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bdunl\\Desktop\\Summer 2025\\INFO 3137 Design Patterns\\INFO3137-Project1 - Starting Point\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9594B-A0FF-475D-993D-AC909B9DA77C}|DocumentFactory\\DocumentFactory.csproj|c:\\users\\bdunl\\desktop\\summer 2025\\info 3137 design patterns\\info3137-project1 - starting point\\documentfactory\\htmlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E9594B-A0FF-475D-993D-AC909B9DA77C}|DocumentFactory\\DocumentFactory.csproj|solutionrelative:documentfactory\\htmlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9594B-A0FF-475D-993D-AC909B9DA77C}|DocumentFactory\\DocumentFactory.csproj|c:\\users\\bdunl\\desktop\\summer 2025\\info 3137 design patterns\\info3137-project1 - starting point\\documentfactory\\htmltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E9594B-A0FF-475D-993D-AC909B9DA77C}|DocumentFactory\\DocumentFactory.csproj|solutionrelative:documentfactory\\htmltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9594B-A0FF-475D-993D-AC909B9DA77C}|DocumentFactory\\DocumentFactory.csproj|c:\\users\\bdunl\\desktop\\summer 2025\\info 3137 design patterns\\info3137-project1 - starting point\\documentfactory\\markdownheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E9594B-A0FF-475D-993D-AC909B9DA77C}|DocumentFactory\\DocumentFactory.csproj|solutionrelative:documentfactory\\markdownheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9594B-A0FF-475D-993D-AC909B9DA77C}|DocumentFactory\\DocumentFactory.csproj|c:\\users\\bdunl\\desktop\\summer 2025\\info 3137 design patterns\\info3137-project1 - starting point\\documentfactory\\markdownfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E9594B-A0FF-475D-993D-AC909B9DA77C}|DocumentFactory\\DocumentFactory.csproj|solutionrelative:documentfactory\\markdownfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9594B-A0FF-475D-993D-AC909B9DA77C}|DocumentFactory\\DocumentFactory.csproj|c:\\users\\bdunl\\desktop\\summer 2025\\info 3137 design patterns\\info3137-project1 - starting point\\documentfactory\\markdownelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E9594B-A0FF-475D-993D-AC909B9DA77C}|DocumentFactory\\DocumentFactory.csproj|solutionrelative:documentfactory\\markdownelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9955BB-E100-4A11-8C30-D3075089B610}|Director\\Director.csproj|c:\\users\\bdunl\\desktop\\summer 2025\\info 3137 design patterns\\info3137-project1 - starting point\\director\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9955BB-E100-4A11-8C30-D3075089B610}|Director\\Director.csproj|solutionrelative:director\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9594B-A0FF-475D-993D-AC909B9DA77C}|DocumentFactory\\DocumentFactory.csproj|c:\\users\\bdunl\\desktop\\summer 2025\\info 3137 design patterns\\info3137-project1 - starting point\\documentfactory\\ielement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E9594B-A0FF-475D-993D-AC909B9DA77C}|DocumentFactory\\DocumentFactory.csproj|solutionrelative:documentfactory\\ielement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9594B-A0FF-475D-993D-AC909B9DA77C}|DocumentFactory\\DocumentFactory.csproj|c:\\users\\bdunl\\desktop\\summer 2025\\info 3137 design patterns\\info3137-project1 - starting point\\documentfactory\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E9594B-A0FF-475D-993D-AC909B9DA77C}|DocumentFactory\\DocumentFactory.csproj|solutionrelative:documentfactory\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HTMLTable.cs",
+              "DocumentMoniker": "C:\\Users\\bdunl\\Desktop\\Summer 2025\\INFO 3137 Design Patterns\\INFO3137-Project1 - Starting Point\\DocumentFactory\\HTMLTable.cs",
+              "RelativeDocumentMoniker": "DocumentFactory\\HTMLTable.cs",
+              "ToolTip": "C:\\Users\\bdunl\\Desktop\\Summer 2025\\INFO 3137 Design Patterns\\INFO3137-Project1 - Starting Point\\DocumentFactory\\HTMLTable.cs",
+              "RelativeToolTip": "DocumentFactory\\HTMLTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:09:03.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarkdownHeader.cs",
+              "DocumentMoniker": "C:\\Users\\bdunl\\Desktop\\Summer 2025\\INFO 3137 Design Patterns\\INFO3137-Project1 - Starting Point\\DocumentFactory\\MarkdownHeader.cs",
+              "RelativeDocumentMoniker": "DocumentFactory\\MarkdownHeader.cs",
+              "ToolTip": "C:\\Users\\bdunl\\Desktop\\Summer 2025\\INFO 3137 Design Patterns\\INFO3137-Project1 - Starting Point\\DocumentFactory\\MarkdownHeader.cs",
+              "RelativeToolTip": "DocumentFactory\\MarkdownHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:02:51.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MarkdownFactory.cs",
+              "DocumentMoniker": "C:\\Users\\bdunl\\Desktop\\Summer 2025\\INFO 3137 Design Patterns\\INFO3137-Project1 - Starting Point\\DocumentFactory\\MarkdownFactory.cs",
+              "RelativeDocumentMoniker": "DocumentFactory\\MarkdownFactory.cs",
+              "ToolTip": "C:\\Users\\bdunl\\Desktop\\Summer 2025\\INFO 3137 Design Patterns\\INFO3137-Project1 - Starting Point\\DocumentFactory\\MarkdownFactory.cs",
+              "RelativeToolTip": "DocumentFactory\\MarkdownFactory.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:02:41.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MarkdownElement.cs",
+              "DocumentMoniker": "C:\\Users\\bdunl\\Desktop\\Summer 2025\\INFO 3137 Design Patterns\\INFO3137-Project1 - Starting Point\\DocumentFactory\\MarkdownElement.cs",
+              "RelativeDocumentMoniker": "DocumentFactory\\MarkdownElement.cs",
+              "ToolTip": "C:\\Users\\bdunl\\Desktop\\Summer 2025\\INFO 3137 Design Patterns\\INFO3137-Project1 - Starting Point\\DocumentFactory\\MarkdownElement.cs",
+              "RelativeToolTip": "DocumentFactory\\MarkdownElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:02:30.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IElement.cs",
+              "DocumentMoniker": "C:\\Users\\bdunl\\Desktop\\Summer 2025\\INFO 3137 Design Patterns\\INFO3137-Project1 - Starting Point\\DocumentFactory\\IElement.cs",
+              "RelativeDocumentMoniker": "DocumentFactory\\IElement.cs",
+              "ToolTip": "C:\\Users\\bdunl\\Desktop\\Summer 2025\\INFO 3137 Design Patterns\\INFO3137-Project1 - Starting Point\\DocumentFactory\\IElement.cs",
+              "RelativeToolTip": "DocumentFactory\\IElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:44:29.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDocument.cs",
+              "DocumentMoniker": "C:\\Users\\bdunl\\Desktop\\Summer 2025\\INFO 3137 Design Patterns\\INFO3137-Project1 - Starting Point\\DocumentFactory\\IDocument.cs",
+              "RelativeDocumentMoniker": "DocumentFactory\\IDocument.cs",
+              "ToolTip": "C:\\Users\\bdunl\\Desktop\\Summer 2025\\INFO 3137 Design Patterns\\INFO3137-Project1 - Starting Point\\DocumentFactory\\IDocument.cs",
+              "RelativeToolTip": "DocumentFactory\\IDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:25:35.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HTMLFactory.cs",
+              "DocumentMoniker": "C:\\Users\\bdunl\\Desktop\\Summer 2025\\INFO 3137 Design Patterns\\INFO3137-Project1 - Starting Point\\DocumentFactory\\HTMLFactory.cs",
+              "RelativeDocumentMoniker": "DocumentFactory\\HTMLFactory.cs",
+              "ToolTip": "C:\\Users\\bdunl\\Desktop\\Summer 2025\\INFO 3137 Design Patterns\\INFO3137-Project1 - Starting Point\\DocumentFactory\\HTMLFactory.cs",
+              "RelativeToolTip": "DocumentFactory\\HTMLFactory.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wEcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:09:23.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bdunl\\Desktop\\Summer 2025\\INFO 3137 Design Patterns\\INFO3137-Project1 - Starting Point\\Director\\Program.cs",
+              "RelativeDocumentMoniker": "Director\\Program.cs",
+              "ToolTip": "C:\\Users\\bdunl\\Desktop\\Summer 2025\\INFO 3137 Design Patterns\\INFO3137-Project1 - Starting Point\\Director\\Program.cs",
+              "RelativeToolTip": "Director\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:59:03.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

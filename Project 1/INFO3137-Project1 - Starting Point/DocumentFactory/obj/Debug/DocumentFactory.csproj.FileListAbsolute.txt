@@ -1,0 +1,6 @@
+C:\Users\bdunl\Desktop\Summer 2025\INFO 3137 Design Patterns\INFO3137-Project1 - Starting Point\DocumentFactory\obj\Debug\DocumentFactory.csproj.AssemblyReference.cache
+C:\Users\bdunl\Desktop\Summer 2025\INFO 3137 Design Patterns\INFO3137-Project1 - Starting Point\DocumentFactory\obj\Debug\DocumentFactory.csproj.CoreCompileInputs.cache
+C:\Users\bdunl\Desktop\Summer 2025\INFO 3137 Design Patterns\INFO3137-Project1 - Starting Point\DocumentFactory\bin\Debug\DocumentFactory.dll
+C:\Users\bdunl\Desktop\Summer 2025\INFO 3137 Design Patterns\INFO3137-Project1 - Starting Point\DocumentFactory\bin\Debug\DocumentFactory.pdb
+C:\Users\bdunl\Desktop\Summer 2025\INFO 3137 Design Patterns\INFO3137-Project1 - Starting Point\DocumentFactory\obj\Debug\DocumentFactory.dll
+C:\Users\bdunl\Desktop\Summer 2025\INFO 3137 Design Patterns\INFO3137-Project1 - Starting Point\DocumentFactory\obj\Debug\DocumentFactory.pdb
